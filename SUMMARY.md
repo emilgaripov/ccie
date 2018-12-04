@@ -25,5 +25,5 @@
 
 ## 3. Цикл
 
-* [3.1 EtherChannel.](3.-cikl/3.1-etherchannel..md)
+* [3.1 EtherChannel.](cycle_3/3.1-etherchannel..md)
 
