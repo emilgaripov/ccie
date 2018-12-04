@@ -1,7 +1,6 @@
 # Table of contents
 
 * [О книге](README.md)
-* [Оглавление](oglavlenie.md)
 * [Методика обучения](metodika-obucheniya.md)
 * [Топология](topology.md)
 
